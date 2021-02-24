@@ -1,4 +1,4 @@
-country,iso3,image,idb,Feb20,Mar20,Abr20,May20,Jun20,Jul20,Aug20,Sep20,Oct20,Nov20,Dec20
+country,iso3,image,idb,20-Feb,20-Mar,Abr20,20-May,20-Jun,20-Jul,20-Aug,20-Sep,20-Oct,20-Nov,20-Dec
 Uruguay,URY,https://www.countryflags.io/uy/flat/64.png,1,0,-5.719556808,-7.380073547,-6.027060509,-4.98154974,-4.858548641,-4.797048092,-3.813038111,-2.76752758,-2.21402216,.
 Mexico,MEX,https://www.countryflags.io/mx/flat/64.png,1,0,0.013885723,-22.33823776,-21.82882881,-13.30941772,-10.70371532,-9.531545639,-8.329914093,-4.985143185,-5.047005653,-5.217451572
 Ecuador,ECU,https://www.countryflags.io/ec/flat/64.png,1,.,.,.,.,-15.30951595,-15.30951595,-15.30951595,-5.602142811,.,.,.
@@ -9,3 +9,4 @@ Argentina,ARG,https://www.countryflags.io/ar/flat/64.png,1,.,.,.,.,-20.74784851,
 Paraguay,PRY,https://www.countryflags.io/py/flat/64.png,1,.,.,.,.,-5.642612457,-5.642612457,-5.642612457,-0.064647876,.,.,.
 Dominican Republic,DOM,https://www.countryflags.io/do/flat/64.png,1,.,.,.,.,-7.798281193,-7.798281193,-7.798281193,-6.738461018,.,.,.
 Costa Rica,CRI,https://www.countryflags.io/cr/flat/64.png,1,.,.,.,.,-20.96382904,-20.96382904,-18.28722763,-16.39661598,-14.96018219,-13.67142487,-11.54908466
+Bolivia,BOL,https://www.countryflags.io/bo/flat/64.png,1,0,-3.612544775,-12.91138554,-15.67057514,-13.14146519,-13.86344433,-11.7771368,-6.893599033,-5.171325684,0.307238281,3.363604784
